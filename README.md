@@ -77,7 +77,7 @@ Built to explore:
 - Market segments and distribution channels  
 - Guest type comparison (adults, children, babies)
 
-🖼️ Preview: `images/dashboard.png`
+🖼️ Preview: `Dashboard.png`
 
 ---
 
